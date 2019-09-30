@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="sparkml:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/sparkml_jar</output-path>
+    <root id="archive" name="sparkml.jar">
+      <element id="module-output" name="sparkml" />
+    </root>
+  </artifact>
+</component>
